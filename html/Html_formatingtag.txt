@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>formatingtag</title>
+</head>
+<body>
+<p><b>THIS IS BOLD TEXT</b></p>
+<p><strong>This is strong text with logical importance</strong></p>
+<p><i>This is italics text</i></p>
+<p><mark>This is highlighted text</mark></p>
+<p>This is<sup>superscript</sup>text</p>
+<p>This is<sub>superscript</sub>text</p>
+<p>Check out this example,<del>this text will be deleted</del></p>
+<p>Check out this example,<ins>to insert a new page</ins></p>
+</body>
+</html>
+
+
+`

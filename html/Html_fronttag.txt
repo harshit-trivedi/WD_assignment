@@ -1,0 +1,13 @@
+<html>
+<head><title>fronttag</title>
+</head>
+<body bgcolor=" #e1a28e">
+<font face="Arial Black">
+<h1>Hi i m esrat</h1>
+</font>
+<h1>Today's climate is amazing</h1>
+<font face="lucida calligraphy"size=9">
+<h1>Bengaluru's climate is amazing</h1>
+</font>
+</body>
+</html>

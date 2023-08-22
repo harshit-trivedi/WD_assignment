@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>
+symboltag
+</title>
+</head>
+<body>
+<p>print &euro;</p>
+<p>print &forall;</p>
+<p>print &ni;</p>
+<p>print &sum;</p>
+<p>print &alpha;</p>
+</body>
+</html>

@@ -1,0 +1,27 @@
+Here is an example of a C++ program that prints a half pyramid pattern using alphabets:
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int rows;
+    cout << "Enter the number of rows: ";
+    cin >> rows;
+
+    char alphabet = 'A';
+
+    if (rows > 0) {
+        for (int i = 1; i <= rows; i++) {
+            for (int j = 1; j <= i; j++) {
+                cout << alphabet << " ";
+            }
+            alphabet++;
+            cout << endl;
+        }
+    }
+
+    return 0;
+}
+Copy
+This program will print a half pyramid pattern using alphabets starting from A. You can modify the program to start from any other alphabet by changing the value of alphabet variable.
